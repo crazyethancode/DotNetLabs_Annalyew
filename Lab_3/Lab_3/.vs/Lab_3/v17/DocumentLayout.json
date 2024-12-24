@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aynur\\Desktop\\Folders\\\u041C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430_2_\u043A\u0443\u0440\u0441\\\u041C\u0430\u0440\u0430\u0442\\DotNetLabs\\Lab_3\\Lab_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3ECCFA4-A331-4D94-83CD-4924A215A03F}|Lab_3\\Lab_3.csproj|c:\\users\\aynur\\desktop\\folders\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430_2_\u043A\u0443\u0440\u0441\\\u043C\u0430\u0440\u0430\u0442\\dotnetlabs\\lab_3\\lab_3\\lab_3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3ECCFA4-A331-4D94-83CD-4924A215A03F}|Lab_3\\Lab_3.csproj|solutionrelative:lab_3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3ECCFA4-A331-4D94-83CD-4924A215A03F}|Lab_3\\Lab_3.csproj|C:\\Users\\Aynur\\Desktop\\Folders\\\u041C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430_2_\u043A\u0443\u0440\u0441\\\u041C\u0430\u0440\u0430\u0442\\DotNetLabs\\Lab_3\\Lab_3\\lab_3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F3ECCFA4-A331-4D94-83CD-4924A215A03F}|Lab_3\\Lab_3.csproj|solutionrelative:lab_3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Aynur\\Desktop\\Folders\\\u041C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430_2_\u043A\u0443\u0440\u0441\\\u041C\u0430\u0440\u0430\u0442\\DotNetLabs\\Lab_3\\Lab_3\\Lab_3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Lab_3\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Aynur\\Desktop\\Folders\\\u041C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430_2_\u043A\u0443\u0440\u0441\\\u041C\u0430\u0440\u0430\u0442\\DotNetLabs\\Lab_3\\Lab_3\\Lab_3\\MainWindow.xaml",
+              "RelativeToolTip": "Lab_3\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-14T10:42:08.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Aynur\\Desktop\\Folders\\\u041C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430_2_\u043A\u0443\u0440\u0441\\\u041C\u0430\u0440\u0430\u0442\\DotNetLabs\\Lab_3\\Lab_3\\Lab_3\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Lab_3\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Aynur\\Desktop\\Folders\\\u041C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430_2_\u043A\u0443\u0440\u0441\\\u041C\u0430\u0440\u0430\u0442\\DotNetLabs\\Lab_3\\Lab_3\\Lab_3\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Lab_3\\MainWindow.xaml.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAEQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:42:08.833Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

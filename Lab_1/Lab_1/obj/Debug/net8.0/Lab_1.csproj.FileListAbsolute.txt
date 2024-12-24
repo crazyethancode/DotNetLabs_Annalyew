@@ -1,0 +1,14 @@
+C:\Users\Aynur\Desktop\Магистратура_2_курс\Марат\DotNetLabs\Lab_1\Lab_1\bin\Debug\net8.0\Lab_1.exe
+C:\Users\Aynur\Desktop\Магистратура_2_курс\Марат\DotNetLabs\Lab_1\Lab_1\bin\Debug\net8.0\Lab_1.deps.json
+C:\Users\Aynur\Desktop\Магистратура_2_курс\Марат\DotNetLabs\Lab_1\Lab_1\bin\Debug\net8.0\Lab_1.runtimeconfig.json
+C:\Users\Aynur\Desktop\Магистратура_2_курс\Марат\DotNetLabs\Lab_1\Lab_1\bin\Debug\net8.0\Lab_1.dll
+C:\Users\Aynur\Desktop\Магистратура_2_курс\Марат\DotNetLabs\Lab_1\Lab_1\bin\Debug\net8.0\Lab_1.pdb
+C:\Users\Aynur\Desktop\Магистратура_2_курс\Марат\DotNetLabs\Lab_1\Lab_1\obj\Debug\net8.0\Lab_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aynur\Desktop\Магистратура_2_курс\Марат\DotNetLabs\Lab_1\Lab_1\obj\Debug\net8.0\Lab_1.AssemblyInfoInputs.cache
+C:\Users\Aynur\Desktop\Магистратура_2_курс\Марат\DotNetLabs\Lab_1\Lab_1\obj\Debug\net8.0\Lab_1.AssemblyInfo.cs
+C:\Users\Aynur\Desktop\Магистратура_2_курс\Марат\DotNetLabs\Lab_1\Lab_1\obj\Debug\net8.0\Lab_1.csproj.CoreCompileInputs.cache
+C:\Users\Aynur\Desktop\Магистратура_2_курс\Марат\DotNetLabs\Lab_1\Lab_1\obj\Debug\net8.0\Lab_1.dll
+C:\Users\Aynur\Desktop\Магистратура_2_курс\Марат\DotNetLabs\Lab_1\Lab_1\obj\Debug\net8.0\refint\Lab_1.dll
+C:\Users\Aynur\Desktop\Магистратура_2_курс\Марат\DotNetLabs\Lab_1\Lab_1\obj\Debug\net8.0\Lab_1.pdb
+C:\Users\Aynur\Desktop\Магистратура_2_курс\Марат\DotNetLabs\Lab_1\Lab_1\obj\Debug\net8.0\Lab_1.genruntimeconfig.cache
+C:\Users\Aynur\Desktop\Магистратура_2_курс\Марат\DotNetLabs\Lab_1\Lab_1\obj\Debug\net8.0\ref\Lab_1.dll

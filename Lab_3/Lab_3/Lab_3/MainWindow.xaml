@@ -1,0 +1,34 @@
+﻿<Window x:Class="Lab_3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab_3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="AddButton" Content="Добавить" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="75" Click="AddButton_Click"/>
+        <Button x:Name="OutputButton" Content="Поиск" HorizontalAlignment="Left" Margin="10,45,0,0" VerticalAlignment="Top" Width="75" Click="OutputButton_Click"/>
+        <Button x:Name="EditButton" Content="Изменить" HorizontalAlignment="Left" Margin="10,80,0,0" VerticalAlignment="Top" Width="75" Click="EditButton_Click"/>
+        <Button x:Name="DeleteButton" Content="Удалить" HorizontalAlignment="Left" Margin="10,115,0,0" VerticalAlignment="Top" Width="75" Click="DeleteButton_Click"/>
+        <Button x:Name="ExitButton" Content="Выход" HorizontalAlignment="Left" Margin="10,150,0,0" VerticalAlignment="Top" Width="75" Click="ExitButton_Click"/>
+        <Button x:Name="Button1" Content="Просмотр таблицы" HorizontalAlignment="Left" Margin="585,262,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+        <DataGrid x:Name="DataGrid" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="66,241,230,44"/>
+
+
+        <Label x:Name="brandLabel" Content="Бренд" HorizontalAlignment="Left" Margin="117,46,0,0" VerticalAlignment="Top" Height="28" Width="64"/>
+        <TextBox x:Name="brandTextBox" HorizontalAlignment="Left" Height="20" Margin="196,50,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="254"/>
+
+        <Label x:Name="modelLabel" Content="Модель" HorizontalAlignment="Left" Margin="117,71,0,0" VerticalAlignment="Top" Height="28" Width="64"/>
+        <TextBox x:Name="modelTextBox" HorizontalAlignment="Left" Height="20" Margin="196,75,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="254"/>
+
+        <Label x:Name="priceLabel" Content="Цена" HorizontalAlignment="Left" Margin="117,96,0,0" VerticalAlignment="Top" Height="28" Width="64"/>
+        <TextBox x:Name="priceTextBox" HorizontalAlignment="Left" Height="20" Margin="196,100,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="254"/>
+
+        <Label x:Name="releaseDateLabel" Content="Дата выпуска" HorizontalAlignment="Left" Margin="117,121,0,0" VerticalAlignment="Top" Height="28" Width="64"/>
+        <TextBox x:Name="releaseDateTextBox" HorizontalAlignment="Left" Height="20" Margin="196,125,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="254"/>
+        <Label x:Name="brandLabel_Копировать" Content="ИД" HorizontalAlignment="Left" Margin="117,16,0,0" VerticalAlignment="Top" Height="28" Width="64"/>
+        <TextBox x:Name="id" HorizontalAlignment="Left" Height="20" Margin="196,20,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="254"/>
+
+    </Grid>
+</Window>
